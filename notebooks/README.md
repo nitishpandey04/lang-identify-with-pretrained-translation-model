@@ -1,11 +1,11 @@
-Encoders:
+Encoders:<br>
 I experimented with two translation based encoders:
 
 1. [Sonar (NLLB based)](https://huggingface.co/cointegrated/SONAR_200_text_encoder)
 2. [Madlad](https://huggingface.co/google/madlad400-3b-mt)
 
-Experiments:
-I have varied below hyperparameters:
+Experiments:<br>
+I have varied below hyperparameters-
 
 1. Number of additional classification layers
 2. Approach to create the output sentence embedding reprsentation. Options are mean, first & last token representations
