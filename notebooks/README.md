@@ -1,10 +1,12 @@
-Encoders:<br>
+Encoders:<br><br>
+
 I experimented with two translation based encoders:
 
 1. [Sonar (NLLB based)](https://huggingface.co/cointegrated/SONAR_200_text_encoder)
 2. [Madlad](https://huggingface.co/google/madlad400-3b-mt)
 
-Experiments:<br>
+Experiments:<br><br>
+
 I have varied below hyperparameters-
 
 1. Number of additional classification layers
